@@ -1,0 +1,4 @@
+
+public enum PizzaState {
+    SOLICITADA, EN_PREPARACION, HORNEANDO, LISTA, ENTREGADA 
+}
